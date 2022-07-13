@@ -15,7 +15,8 @@
     "@plasmicapp/loader-nextjs": "^1.0.157",
     "next": "^12.2.2",
     "react": "^18.2.0",
-    "react-dom": "^18.2.0"
+    "react-dom": "^18.2.0",
+    "terser": "^3.14.1"
   },
   "devDependencies": {
     "@types/node": "18.0.3",
